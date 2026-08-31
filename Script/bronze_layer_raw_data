@@ -35,6 +35,7 @@ CREATE TABLE b_smarket_inventory (
     DeliveryStatus VARCHAR(50)
 );
 
+-- MAKE sure your CSV file is stored at uploads folder in your mysql files
 TRUNCATE TABLE b_smarket_inventory;
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/supermarket_inventory_data2.csv'
 INTO TABLE b_smarket_inventory
