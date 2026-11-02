@@ -1,6 +1,6 @@
 /* ======================================================
    SILVER LAYER ETL & DATA CLEANING PROCEDURE
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Creates the silver layer table and defines a 
    stored procedure to extract, transform, and load (ETL) data 
    from the bronze layer. Applies string standardization, financial 
