@@ -1,7 +1,7 @@
 
 Supermarket Supply Chain & Inventory Optimization
 A SQL Data Warehouse Integration and Exploratory Data Analysis Project
-Author: Sakina Kaidawala
+Author: Sakina Godhy
 
 🚨 Note on Data Source: This project relies on AI-generated synthetic data from Kaggle. While the supply chain scenarios, financial formulas, and operational bottlenecks analyzed here reflect real-world business challenges, the specific supplier names and transaction records are purely simulated.
 
