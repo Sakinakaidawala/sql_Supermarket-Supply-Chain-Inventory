@@ -1,6 +1,6 @@
 /* ======================================================
    DATABASE SETUP & BRONZE LAYER INGESTION
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Creates the database schema, defines the raw 
    bronze layer table structure, and bulk loads the synthetic 
    Kaggle supermarket inventory dataset via LOAD DATA INFILE.
