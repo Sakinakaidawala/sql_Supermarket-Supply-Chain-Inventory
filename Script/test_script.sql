@@ -1,6 +1,6 @@
 /* ==============================================================================
  TEST SCRIPT FOR DATA CLEANING & VALIDATION SCRIPT TEST SCRIPT
- Author: Sakina Kaidawala
+ Author: Sakina Godhy
  Description: Standardizes supplier names, audits financial logic, 
  and validates chronological integrity for the silver layer data warehouse.
 -- ======================================================
