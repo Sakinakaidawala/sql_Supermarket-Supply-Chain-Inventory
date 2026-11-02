@@ -1,6 +1,6 @@
 /* ======================================================
    EXPLORATORY DATA ANALYSIS (EDA) SCRIPT
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Analyzes the clean silver layer supermarket dataset 
    to uncover supply chain bottlenecks, critical stockouts, trapped 
    capital, sell-through rates, and algorithmic ordering inefficiencies.
